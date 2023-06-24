@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">appToDoList</string>
+    <string name="login">Entrar</string>
+    <string name="txt_sign_up">Cadastre-se</string>
+    <string name="title_sign_up">Cadastre-se</string>
+    <string name="btn_sign_up">Cadastrar</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
